@@ -1,0 +1,15 @@
+Alice Smith,10001,alice01,alice01,(123) 456-7890,0001-1234,B101,E001,Shift Manager
+Bob Johnson,10002,bob02,P@ssw0rd2!,(123) 456-7891,0002-1235,B102,E002,Cashier
+Carol Williams,10003,carol03,P@ssw0rd3!,(123) 456-7892,0003-1236,B103,E003,Salesperson
+David Jones,10004,david04,P@ssw0rd4!,(123) 456-7893,0004-1237,B104,E004,Cashier
+Elaine Brown,10005,elaine05,P@ssw0rd5!,(123) 456-7894,0005-1238,B105,E005,Salesperson
+Frank Davis,10006,frank06,P@ssw0rd6!,(123) 456-7895,0006-1239,B101,E006,Cashier
+Grace Miller,10007,grace07,P@ssw0rd7!,(123) 456-7896,0007-1240,B102,E007,Cashier
+Harry Wilson,10008,harry08,P@ssw0rd8!,(123) 456-7897,0008-1241,B103,E008,Salesperson
+Irene Moore,10009,irene09,P@ssw0rd9!,(123) 456-7898,0009-1242,B104,E009,Shift Manager
+Jack Taylor,10010,jack10,P@ssw0rd10!,(123) 456-7899,0010-1243,B105,E010,Cashier
+Karen Anderson,10011,karen11,P@ssw0rd11!,(123) 456-7900,0011-1244,B101,E011,Salesperson
+Larry Thomas,10012,larry12,larry12,(123) 456-7901,0012-1245,B102,E012,Shift Manager
+Maria Jackson,10013,maria13,P@ssw0rd13!,(123) 456-7902,0013-1246,B103,E013,Cashier
+Nick White,10014,nick14,P@ssw0rd14!,(123) 456-7903,0014-1247,B104,E014,Salesperson
+Olivia Harris,10015,olivia15,P@ssw0rd15!,(123) 456-7904,0015-1248,B105,E015,Shift Manager

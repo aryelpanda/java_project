@@ -1,0 +1,1 @@
+pants sold: 2

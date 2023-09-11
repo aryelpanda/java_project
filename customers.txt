@@ -1,0 +1,7 @@
+ariel reshef,123,1234567890,new
+Linda Fitzgerald,456,2345678901,returning
+Carlos Rodriguez,987,3456789012,vip
+Priya Narayanan,112,4567890123,new
+matan Choi,334,5678901234,returning
+sharon mizrahi,787,6789012345,vip
+Olga Petrova,321,7890123456,new

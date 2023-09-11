@@ -1,0 +1,27 @@
+Product:Jeans Blue,pants,100
+Product:Blue Pants,pants,150
+Product:Shorts White,pants,160
+Product:Red Shirt,shirts,200
+
+B101:Jeans Blue,4
+B101:Blue Pants,10
+B101:Shorts White,15
+B101:Red Shirt,5
+
+B102:Blue Pants,100
+B102:Shorts White,115
+B102:Red Shirt,52
+
+B103:Jeans Blue,4
+B103:Blue Pants,10
+B103:Red Shirt,5
+
+B104:Jeans Blue,4
+B104:Blue Pants,100
+B104:Shorts White,1
+B104:Red Shirt,5
+
+B105:Jeans Blue,4
+B105:Blue Pants,10
+B105:Shorts White,15
+B105:Red Shirt,4
